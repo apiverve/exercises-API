@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/exercises",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Exercises is a simple tool for getting exercise information. It returns information on various exercises.",
   "main": "index.js",
   "scripts": {
